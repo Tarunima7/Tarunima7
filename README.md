@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 
 
-<--
+<!--
 👋 Hi, I’m TARUNIMA SHARMA 
-
 - 🤔 I’m looking for help with ...
 - - 💬 Ask me about ...
 - 📫 How to reach me: ...
