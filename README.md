@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Here is what I'm working on!
+
+👋 Hi, I’m TARUNIMA SHARMA 
+👀 I’m interested in Computers
+🌱 I’m currently learning React.js, Node JS and UI/UX designing  
+💞️ I’m looking to collaborate on any project of Web Devlopment
+📫 How to reach:.. [linkedin] (https://www.linkedin.com/in/tarunimasharma/) or [Instagram](https://www.instagram.com/tarunimasharma/?hl=en) or drop me a mail [mail] (tarunima.2023mca1134@kiet.edu)
