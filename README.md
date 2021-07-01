@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 
+
 <!--
 👋 Hi, I’m TARUNIMA SHARMA 
 - 🤔 I’m looking for help with ...
@@ -26,5 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tarunima7&repo=Taru)
 
+![Github stats](https://github-readme-stats.vercel.app/api?TARUNIMA=Tarunima7)
 -->
