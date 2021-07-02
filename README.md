@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### Here is what I'm working on!👋
+### Here is what I'm working on
 - 👋 Hi, I’m TARUNIMA SHARMA 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning React.js, NodeJS and UI/UX designing
