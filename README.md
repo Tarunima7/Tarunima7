@@ -1,5 +1,5 @@
-### Hi there 👋
 
+## Welcome to TARUNIMA SHARMA's GitHub profile 👋🏻
 <!--
 **Tarunima7/Tarunima7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on any project of Web Devlopment
 - 📫 How to reach:.. [linkedin](https://www.linkedin.com/in/tarunimasharma/) or [Instagram](https://www.instagram.com/tarunimasharma/?hl=en) or drop me a [mail](tarunima.2023mca1134@kiet.edu)
 <img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tarunima7/Tarunima7)
+
 
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -32,6 +35,9 @@ Here are some ideas to get you started:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)&nbsp;
+
+
+
 <!--
 ![Adobe xd]
 ![Adobe Lightroom]
@@ -90,6 +96,12 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 
 
+<div align="center">
+
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 <!--
 👋 Hi, I’m TARUNIMA SHARMA 
