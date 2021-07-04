@@ -96,7 +96,12 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 
 
-<div align="center">
+
+
+
+
+
+<div align="CENTER">
 
 
 ### Show some ❤️ by starring some of the repositories!
