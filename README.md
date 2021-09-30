@@ -1,5 +1,6 @@
 
 ## Welcome to TARUNIMA SHARMA's GitHub profile 👋🏻
+ <br>Hello (नमस्ते) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 <!--
 **Tarunima7/Tarunima7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
