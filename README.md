@@ -1,6 +1,5 @@
 
 ## Welcome to TARUNIMA SHARMA's GitHub profile 👋🏻
- <br>Hello (नमस्ते) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 <!--
 **Tarunima7/Tarunima7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 ### Here is what I'm working on
 - 👋 Hi, I’m TARUNIMA SHARMA 
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning python and UI/UX designing
+- 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on any project of Web Devlopment
 - 👀 I’m interested in Computers
 - 💞️ I’m looking to collaborate on any project of Web Devlopment
