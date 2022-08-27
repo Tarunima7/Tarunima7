@@ -6,20 +6,37 @@
 
 Here are some ideas to get you started:
 -->
+
+<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
+
+
 ### Here is what I'm working on
 - 👋 Hi, I’m TARUNIMA SHARMA 
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning React.js, NodeJS and UI/UX designing
+- 🌱 I’m currently learning python and UI/UX designing
 - 👯 I’m looking to collaborate on any project of Web Devlopment
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning React.js, Node JS and UI/UX designing 
 - 💞️ I’m looking to collaborate on any project of Web Devlopment
 - 📫 How to reach:.. [linkedin](https://www.linkedin.com/in/tarunimasharma/) or [Instagram](https://www.instagram.com/tarunimasharma/?hl=en) or drop me a [mail](tarunima.2023mca1134@kiet.edu)
 
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  <a target="_blank">
+    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif" width="40px" />
+  </a>
+</h1>
+
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/image.gif">
+</a>
  
  
-<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tarunima7/Tarunima7)
 
@@ -101,6 +118,16 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 
 
+#
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/angryl/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=angryl#version2"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Tarunima7?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 
@@ -115,16 +142,5 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 
 
-<!--
-👋 Hi, I’m TARUNIMA SHARMA 
-- 🤔 I’m looking for help with ...
-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tarunima7&repo=Taru)
-
-![Github stats](https://github-readme-stats.vercel.app/api?TARUNIMA=Tarunima7)
--->
 
